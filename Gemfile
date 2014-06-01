@@ -40,6 +40,8 @@ gem "unicorn"
 
 
 gem "bootstrap-sass", "~> 3.1.1.1"
+gem "handlebars_assets"
+
 gem "compass-rails", group: :assets
 gem "rails_layout", group: :development
 gem "haml"
